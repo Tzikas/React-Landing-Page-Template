@@ -6,7 +6,7 @@ function BookingPage() {
         <div id="meeting" className="text-center">
             <div className="container">
                 <div className="col-md-8 col-md-offset-2 section-title">
-                    <h2>Schedule a Meeting</h2>
+                    <h2>Schedule a Meeting!!!</h2>
                     <InlineWidget url="https://calendly.com/thebaseballmedic" />
                 </div>
             </div>
