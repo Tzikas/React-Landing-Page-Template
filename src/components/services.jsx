@@ -5,10 +5,10 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Targeted baseball training designed to build confidence, performance, and athletic longevity. Every session combines professional experience, medical insight, and game-tested drills tailored to each athlete’s goals.
+            
           </p>
         </div>
         <div className="row">
