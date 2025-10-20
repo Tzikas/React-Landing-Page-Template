@@ -68,8 +68,9 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Private Training (1-on-1)",
+      "text": "Personalized sessions focused on refining mechanics, building strength, and improving speed. Each workout is customized to your position and current skill level.
+      Best for serious athletes looking for focused development."
     },
     {
       "icon": "fa fa-cart-arrow-down",
