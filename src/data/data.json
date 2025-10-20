@@ -159,26 +159,26 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
+  "Training Philosophy": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Assessment First",
+      "text": "Every player starts with a movement and performance assessment — evaluating throwing mechanics, mobility, and baseline speed or strength. This helps tailor training to your body and goals from day one."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Individualized Programming",
+      "text": "No cookie-cutter workouts here. Each program is customized based on your position, skill level, and in-season schedule to help you progress safely and efficiently."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Injury-Smart Design",
+      "text": "Built by a former Division I athlete and medical student, The Baseball Medic emphasizes proper workload management and arm-care principles to prevent injuries and maximize performance."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Progress Tracking",
+      "text": "We measure results through data — from exit velocity and sprint speed to throwing power and agility drills — so you can see your progress and stay motivated."
     }
   ]
 }
