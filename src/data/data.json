@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Private Training (1-on-1)",
-      "text": "Personalized sessions focused on refining mechanics, building strength, and improving speed. Each workout is customized to your position and current skill level. Best for serious athletes looking for focused development."
+      "name": "Batting Pracice Sessions",
+      "text": "Cage-based hitting sessions focused on swing mechanics, bat speed, and approach. Athletes work on contact consistency, timing, and power using data-driven feedback and drills that translate directly to game performance."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Defensive Training Sessions",
+      "text": "On-field defensive instruction with emphasis on footwork, throwing accuracy, and reaction time. Sessions target position-specific fundamentals, with particular focus on outfield defense and first-step explosiveness."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Strength & Agility Training",
+      "text": "Improve speed, coordination, and athletic efficiency through tailored movement patterns and strength exercises. Each session blends baseball-specific agility, mobility, and power work for balanced performance."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Return-to-Play Program",
+      "text": "For athletes recovering from injury or extended time off. This program bridges the gap between rehab and full competition through progressive workload management, stability drills, and monitored reconditioning."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Video Analysis",
+      "text": "Receive personalized swing or throwing analysis from recorded footage. Each review includes technical breakdown, performance cues, and corrective drills designed to accelerate progress between in-person sessions."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Private Training Packages",
+      "text": "One-on-one training combining offense, defense, and strength elements. Customized sessions are built around your individual goals, with clear metrics and progress tracking throughout your program."
     }
   ],
   "Testimonials": [
