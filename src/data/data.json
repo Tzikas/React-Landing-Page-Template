@@ -10,12 +10,6 @@
       "Real baseball experience",
       "Injury-aware coaching",
       "Customized plans for each athlete"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
     ]
   },
   "Gallery": [
@@ -159,7 +153,7 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Training Philosophy": [
+  "Features": [
     {
       "icon": "fa fa-comments-o",
       "title": "Assessment First",
