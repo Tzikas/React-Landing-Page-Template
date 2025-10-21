@@ -1,0 +1,18 @@
+backend:
+  name: git-gateway      # Use Netlify Identity for login
+  branch: master         # Your main branch; use 'main' if that's what your repo uses
+
+media_folder: "public/uploads"   # Folder in your repo where uploaded images/files are stored
+public_folder: "/uploads"        # Folder path on your published site
+
+publish_mode: editorial_workflow  # Allows drafts and approvals before publishing
+
+collections:
+  - name: "data"
+    label: "Site Data"
+    files:
+      - label: "Main Content"
+        name: "data"
+        file: "src/data/data.json"
+        fields:
+          - { label: "Data", name: "raw", widget: "json" }
